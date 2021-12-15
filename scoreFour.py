@@ -80,6 +80,5 @@ for turn in range(21):
         print(player[0], 'wins!')
         break
 
-    print(turn)
     if (turn == 20):
         print('Game Over! Draw!')
